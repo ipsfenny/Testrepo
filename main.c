@@ -2,6 +2,7 @@
 
 int main (void){
     printf("Dieses Programm ist toll \n");
+    printf("zweite Ausgabe \n");
     return 0;
 }
 
